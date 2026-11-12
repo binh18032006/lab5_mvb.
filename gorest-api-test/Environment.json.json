@@ -1,0 +1,28 @@
+{
+	"id": "87f07deb-1c37-412a-8677-ad927f07f8df",
+	"name": "2474802010047_MaiVanBinh_GoRest_Env",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "dupEmail",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "dupUserId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-11-12T06:14:05.279Z",
+	"_postman_exported_using": "Postman/12.36.3-261112-0231"
+}
